@@ -1,0 +1,27 @@
+[
+    {
+        "question_id": 1,
+        "question": "How should labor be accurately reflected in the claim systems?",
+        "answer": "Labor should be accurately reflected according to the type of work performed including billable, customer facing, enablement, time away, etc."
+    },
+    {
+        "question_id": 2,
+        "question": "What is required to claim labor within ILC and CATS?",
+        "answer": "In order to claim labor within ILC, an EMF record is required. In order to claim labor in CATS, a Mini-master record is required."
+    },
+    {
+        "question_id": 3,
+        "question": "Who manages the work item request process for labor claiming?",
+        "answer": "There are CLAIM administration teams in each Geo / Market / Country who manage the work item request process."
+    },
+    {
+        "question_id": 4,
+        "question": "Under what circumstances can hours related to a training class be claimed to a contract?",
+        "answer": "If certain skills are required related to a particular contract or client effort, the hours may be claimed to the project ONLY if the customer's approval is obtained."
+    },
+    {
+        "question_id": 5,
+        "question": "What should be done if hours are not believed to be valid?",
+        "answer": "Discuss with the person or their manager why you believe the hours are not valid. If this doesn't resolve the concern, then contact your local manager, HR team or use the IBM Concerns and Appeals program."
+    }
+]

@@ -1,0 +1,17 @@
+How do I know which activity codes to use when claiming in either ILC or CATS? 
+Refer to the Activity Code model found on the Claiming Basics tab of this training module.
+Labor should be accurately reflected according to the type of work performed including billable, customer facing, enablement, time away,
+etc.
+What if I need to enter hours in both ILC and CATS? 
+Hours should be worked within the claim system according to the country which owns the contract. In order to claim labor within ILC, an EMF record is required. In order to claim labor in CATS, a Mini-master record is required. Practitioners can certainly split their time between systems, as needed for contract labor, for a given week. Please refer to the Labor Claiming reference page for information.
+What if I am located in a “Blue Harmony” country that is required to record time in CATS (the SAP time recording application)?
+
+Who controls which activity codes are available on the work items I use for labor claiming ? 
+There are CLAIM administration teams in each Geo / Market / Country who manage the work item request process. Work items for direct productive delivery hours should only contain the standard activity codes. If you believe incorrect activity codes are listed for the work item you are claiming to, please contact your manager or Service Area CLAIM contact.
+It is each delivery Practitioner's responsibility, along with his or her Manager, to use the appropriate standard activity code(s) for the services they are performing or supporting.
+What if I am required to take a training class related to a customer project, can I claim the time to the contract?  If certain skills are required related to a particular contract or client effort, the hours may be claimed to the project ONLY if the customer's
+approval is obtained.
+What if I am working on a Fixed price contract, do I really need to claim my labor?  YES, absolutely. "Claim what you work and work what you claim" includes Fixed Prices contracts!
+What if I am asked to move my hours to avoid a violation or to avoid a budget overrun?  Report it immediately as a violation to IBM's Business Conduct Guidelines.
+In Blue Harmony / SAP, the standard codes are referred to as Task Codes, rather than activity codes, but they are the same standard codes. Rather than recording your time using work items and activity codes, you will record your time using WBS Elements and Task Codes. The Task Codes may be more or less restricted than what you are accustomed to in ILC / CLAIM. It is each delivery Practitioner's responsibility, along with his or her Manager, to use the appropriate standard Task Code(s) for the services they are performing or supporting.
+What if I am asked to approve hours that I don’t believe are valid?  Discuss with the person or their manager why you believe the hours are not valid. It's possible that there was a mistake made. If this doesn't resolve the concern, then contact your local manager, HR team or use the IBM Concerns and Appeals program*. Project Managers should not approve hours that they believe to be inaccurate.
